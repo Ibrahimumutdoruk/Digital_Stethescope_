@@ -20,3 +20,10 @@
 
 4. A user interface has been designed to allow users to dynamically change the cutoff frequencies of the signal filter, and BPM is monitored accordingly.
 
+### GUI DESIGN
+
+![Screenshot 2025-07-08 022036](https://github.com/user-attachments/assets/14456169-9aed-4b97-bd8c-6edf20e2d9d0)
+
+------------
+
+![Screenshot 2025-07-08 022036](https://github.com/user-attachments/assets/35594256-9736-48e7-9d2a-6356f72c4150)
